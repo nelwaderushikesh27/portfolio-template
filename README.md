@@ -24,7 +24,7 @@ A modern, responsive portfolio website template built with HTML, CSS, and JavaSc
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/portfolio-template.git
+git clone https://github.com/nelwaderushikesh27/portfolio-template.git
 
 # Open index.html in browser
 open index.html
